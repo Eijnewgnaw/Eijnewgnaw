@@ -5,14 +5,14 @@
 
 <div align="center">
   <p>📚 A passionate learner | 💻 Developer | 🎯 Problem Solver</p>
-  <img src="https://profile-counter.glitch.me/Eijnewgnaw/count.svg" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Eijnewgnaw&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eijnewgnaw&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eijnewgnaw&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="180em" src="https://raw.githubusercontent.com/Eijnewgnaw/Eijnewgnaw/output/github-stats.svg" alt="GitHub stats" />
+  <img height="180em" src="https://raw.githubusercontent.com/Eijnewgnaw/Eijnewgnaw/output/top-langs.svg" alt="Top languages" />
 </div>
 
 <br />
