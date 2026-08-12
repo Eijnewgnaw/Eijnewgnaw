@@ -11,8 +11,8 @@
 <br />
 
 <div align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/Eijnewgnaw/Eijnewgnaw/output/github-stats.svg" alt="GitHub stats" />
-  <img height="180em" src="https://raw.githubusercontent.com/Eijnewgnaw/Eijnewgnaw/output/top-langs.svg" alt="Top languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Eijnewgnaw&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Eijnewgnaw&layout=compact&theme=tokyonight" alt="Top languages" />
 </div>
 
 <br />
