@@ -9,7 +9,6 @@
     <br />
     🧩 Systems Thinker · 🛠️ Tool Builder · 📚 Knowledge Distiller
   </p>
-  <img src="https://komarev.com/ghpvc/?username=Eijnewgnaw&amp;style=flat-square&amp;color=blueviolet" alt="Profile views" />
 </div>
 
 <br />
